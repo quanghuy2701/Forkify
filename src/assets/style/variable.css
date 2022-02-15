@@ -1,0 +1,14 @@
+:root {
+  --background: #f6f6f6;
+  --primary_1: #fafa33;
+  --primary_2: #f09090;
+  --gradient: linear-gradient(45deg, var(--primary_1), var(--primary_2));
+  --gradient_reverse: linear-gradient(
+    45deg,
+    var(--primary_2),
+    var(--primary_1)
+  );
+  --text: #316b83;
+  --error: #ff0000;
+  --success: #1b842c;
+}
